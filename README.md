@@ -1,4 +1,4 @@
-**Dark Sleep**
+**Dark Sleep for Apple TV**
 
 Dark Sleep is designed to help you achieve the perfect night's rest with its simple, elegant design and soothing audio. Our app is unique in that it plays relaxation sounds with a total black screen, ensuring an optimal environment for sleep without any visual distractions.
 
@@ -19,6 +19,7 @@ Dark Sleep is designed to help you achieve the perfect night's rest with its sim
   - Waterfall
   - Waves
   - White Noise
+ 
 - **Highest Quality Stereo Sound**: Enjoy high-quality stereo sound with lossless compression to save space on your Apple TV. No internet connection required to stream.
 - **Screen Saver Prevention**: Prevents your device's screen saver from interrupting your rest, ensuring a full night of uninterrupted sleep.
 - **Background Audio**: Enable sounds to play in the background even when the app is closed, maintaining your sleep ambiance.
