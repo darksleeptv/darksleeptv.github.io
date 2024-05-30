@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Dark Sleep ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains how we handle your personal information when you use our Dark Sleep app.
+Dark Sleep is committed to protecting your privacy. This Privacy Policy explains how we handle your personal information when you use our Dark Sleep app.
 
 ## Data Collection
 
