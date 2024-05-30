@@ -1,6 +1,5 @@
-# Dark Sleep for Apple TV
+**Dark Sleep for Apple TV**
 
-<br>
 Dark Sleep is designed to help you achieve the perfect night's rest with its simple, elegant design and soothing audio. Our app is unique in that it plays relaxation sounds with a total black screen, ensuring an optimal environment for sleep without any visual distractions.
 
 ### Key Features:
@@ -61,6 +60,6 @@ Download Dark Sleep now and transform your sleep routine with the simplicity and
 
 <br>
 
-[Support](support)
+[Support](https://darksleeptv.github.io/support)
 
-[Privacy Policy](privacy)
+[Privacy Policy](https://darksleeptv.github.io/privacy)
