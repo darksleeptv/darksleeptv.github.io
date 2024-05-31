@@ -39,10 +39,15 @@ Dark Sleep is more than just a sleep aid; it is a carefully crafted tool designe
 
 Download Dark Sleep now and transform your sleep routine with the simplicity and elegance you deserve. Enjoy a restful night and wake up refreshed, ready to take on the day.
 
-![main-screen](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/f3fe333a-0636-45de-8562-78829e9bd4d4)
-
-
 
 [Support](https://darksleeptv.github.io/support)
 
 [Privacy Policy](https://darksleeptv.github.io/privacy)
+
+![main-screen](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/f3fe333a-0636-45de-8562-78829e9bd4d4)
+
+![settings](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/dc4cce9a-ff81-4bc8-a8a1-6a1494f2a691)
+
+![dark-title](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/0846b0ae-4de6-40ff-b490-9b882ae7b727)
+
+![just-black](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/23b51c62-7459-4dcd-a9d2-8b52e50573a0)
