@@ -46,10 +46,6 @@ Download Dark Sleep now and transform your sleep routine with the simplicity and
 
 _______________
 
-
-https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/9ea14154-9e18-4e4e-864f-9550095a777f
-
-
 ![main-screen](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/f3fe333a-0636-45de-8562-78829e9bd4d4)
 
 ![settings](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/dc4cce9a-ff81-4bc8-a8a1-6a1494f2a691)
