@@ -8,9 +8,17 @@ Dark Sleep is committed to protecting your privacy. This Privacy Policy explains
 
 We do not collect any personal data from users of the Dark Sleep app. We respect your privacy and ensure that your personal information is protected.
 
+## Data Use and Sharing
+
+We confirm that any third party with whom the app shares user data (if applicable) provides the same or equal protection of user data as stated in this privacy policy.
+
 ## Tracking and Analytics
 
 We do not use any tracking or analytics tools in the Dark Sleep app. Your usage of the app is not monitored, tracked, or analyzed in any way.
+
+## Data Retention and Deletion
+
+We do not collect or retain any personal data. Therefore, there is no data to retain or delete. However, if you have any concerns, you can contact us to request information.
 
 ## Strict Privacy
 
@@ -20,8 +28,8 @@ Dark Sleep is designed with the strictest privacy standards in mind. We prioriti
 
 If you have any questions or concerns about our privacy practices, please contact us at:
 
-**Email**: [privacy@darksleeptv.com](mailto:privacy@darksleeptv.com)  
-**Address**: 447 Broadway 2nd Floor #447, New York, NY 10013, USA
+**Email:** [privacy@darksleeptv.com](mailto:privacy@darksleeptv.com)  
+**Address:** 447 Broadway 2nd Floor #447, New York, NY 10013, USA
 
 ## Changes to This Privacy Policy
 
@@ -32,4 +40,3 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 By using the Dark Sleep app, you signify your acceptance of this Privacy Policy. If you do not agree with this policy, please do not use our app.
 
 Thank you for using Dark Sleep. We are committed to ensuring your privacy and providing you with a secure and peaceful sleep experience.
-Privacy Policy
