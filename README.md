@@ -15,7 +15,7 @@ Dark Sleep is designed to help you achieve the perfect night's rest with its sim
   - Ocean
   - Ocean Breeze
   - Pink Noise
-  - Rain Shower Cream
+  - Rain Shower
   - Stream
   - Thunderstorms
   - Water Flowing
