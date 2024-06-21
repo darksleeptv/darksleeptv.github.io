@@ -28,7 +28,7 @@ Dark Sleep is designed with the strictest privacy standards in mind. We prioriti
 
 If you have any questions or concerns about our privacy practices, please contact us at:
 
-**Email:** [privacy@darksleeptv.com](mailto:privacy@darksleeptv.com)  
+**Contact Form**: [Contact Us](https://forms.gle/cGHDa9RmtuWCskBL6)
 **Address:** 447 Broadway 2nd Floor #447, New York, NY 10013, USA
 
 ## Changes to This Privacy Policy
