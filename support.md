@@ -4,7 +4,7 @@ Thank you for using Dark Sleep! We are committed to providing you with the best 
 
 ## Contact Support
 
-**Email**: [support@darksleeptv.com](mailto:support@darksleeptv.com)
+**Support Form**: [Contact Us](https://forms.gle/cGHDa9RmtuWCskBL6)
 
 Our support team is available to help you with any inquiries or issues you may have. We strive to respond to all support requests promptly.
 
