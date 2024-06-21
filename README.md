@@ -9,7 +9,6 @@ Dark Sleep is designed to help you achieve the perfect night's rest with its sim
 - **Total Black Screen**: Dark Sleep is the only app that plays relaxation sounds with a completely black screen, perfect for sleeping.
 
 - **Soothing Audio**: Choose from a variety of relaxing sounds to help you drift off to sleep, including:
-
   - Fireplace
   - Gentle Rain
   - Ocean
@@ -22,6 +21,8 @@ Dark Sleep is designed to help you achieve the perfect night's rest with its sim
   - Waterfall
   - Waves
   - White Noise
+
+- **Gentle Sunrise Alarm Clock**: Experience a natural wake-up with our new Sunrise Alarm Clock, simulating a gentle sunrise to ease you into your day.
 
 - **Highest Quality Stereo Sound**: Enjoy high-quality stereo sound with lossless compression to save space on your Apple TV. No internet connection required to stream.
 
@@ -39,12 +40,11 @@ Dark Sleep is more than just a sleep aid; it is a carefully crafted tool designe
 
 Download Dark Sleep now and transform your sleep routine with the simplicity and elegance you deserve. Enjoy a restful night and wake up refreshed, ready to take on the day.
 
-
-[Support](https://darksleeptv.github.io/support)
+[Support](https://forms.gle/cGHDa9RmtuWCskBL6)
 
 [Privacy Policy](https://darksleeptv.github.io/privacy)
 
-_______________
+---
 
 ![main-screen](https://github.com/darksleeptv/darksleeptv.github.io/assets/171287442/f3fe333a-0636-45de-8562-78829e9bd4d4)
 
